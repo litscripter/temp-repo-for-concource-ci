@@ -4,3 +4,6 @@ Trigger Pipeline 3
 Trigger Pipeline 4
 Trigger Pipeline 5
 Trigger Pipeline 6
+Trigger 7
+Trigger 8
+Trigger 
